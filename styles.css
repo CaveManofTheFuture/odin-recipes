@@ -1,3 +1,7 @@
+body{
+ background-color: rgb(200, 219, 205);
+}
+
 .link {
  color: black;
  background-color: lightyellow;
@@ -9,4 +13,14 @@
 h1 {
  font-size: 50px;
  font-family: "Times New Roman", serif;
+ margin-top: 10px;
+ margin-left: 808px;
+}
+
+.recipes{
+ border-radius: 10px;
+ background-color: white;
+ border: 10px solid white;
+ margin-left: 710px;
+ margin-right: 710px;
 }
